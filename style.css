@@ -1,0 +1,24 @@
+* {
+    text-align: center;
+    background-color: orchid;
+    color: black;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#incre {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    border-color: silver;
+    color: blue;
+}
+
+#decre {
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    border-color: silver;
+    color: crimson;
+}
